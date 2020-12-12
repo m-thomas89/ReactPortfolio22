@@ -1,0 +1,1 @@
+This is the portfolio of Michael Thomas, included are a number of projects I have worked on as well as a detailed summary about me.
