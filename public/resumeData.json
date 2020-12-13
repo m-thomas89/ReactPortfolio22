@@ -3,16 +3,15 @@
     "name": "Michael Thomas",
     "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
+    "image": "IMG_1273.jpg",
     "bio": "I was born and raised in Queens, New York. I went to University of Michigan where i got my bachlor's degree in Business Administration and a minor in Biology. My goal was to run my own dental school so I went Barry University in Miami where I got my Master's in Biomedical Science. While I was in Miami I found a sales job and started my journey in selling websites for digital marketing agencies. When I moved back to New York I was in charge of running the sales department of a agency that worked with large brands. My goal is to learn how to code websites and tie that in with my selling abilities.",
     "email": "m-thomas89@hotmail.com.com",
-    "address": {
-      
+    "address": { 
     },
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/profile.php?id=754105104",
         "className": "fa fa-facebook"
       },
       {
@@ -20,11 +19,7 @@
         "url": "https://www.linkedin.com/in/saajansangha/",
         "className": "fa fa-linkedin"
       },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
+      
       {
         "name": "github",
         "url": "http://github.com/sonnysangha",
@@ -58,7 +53,7 @@
     ],
     "skills": [
       {
-        "name": "Javascript",
+        "name": "HTML",
         "level": "100%"
       },
       {
@@ -66,8 +61,8 @@
         "level": "100%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Javascrpit",
+        "level": "65%"
       },
       {
         "name": "ReactJs",
