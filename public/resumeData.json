@@ -9,8 +9,6 @@
     "address": {
       
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
@@ -60,23 +58,19 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Javascript",
         "level": "100%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "100%"
       },
       {
         "name": "Git",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
-        "name": "HTML5",
+        "name": "ReactJs",
         "level": "80%"
       },
       {
