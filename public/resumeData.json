@@ -30,24 +30,23 @@
     "skillmessage": "Here are some of the skills I have aquired",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "University of Columbia",
+        "degree": "Engineering Coding Bootcamp",
+        "graduated": "December 2020"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "New Standard Digital",
+        "title": "Sales Manager",
+        "years": "January 2020 - Present",
+        "description": "Build, train, and oversee sales team."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Linkeo",
+        "title": "Digital Marketing Consultant",
+        "years": "May 2018 - December 2019",
+        "description": "Consultant for existing clients, as well as aquistion for new clients."
       }
     ],
     "skills": [
@@ -88,16 +87,16 @@
         "url": "https://idallas93.github.io/BootcampProjectOne/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Brown Bag",
+        "category": "Brown Bag allows restaurants to process orders without the need of a large waitstaff, along with cutting out the fees associated with current popular food apps. Instead of charging a large percentage of each transaction, Brown Bag will only charge a small, monthly fee while providing the same level of service",
+        "image": "brownbag.png",
+        "url": "https://foodappbcs.herokuapp.com/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Progressive Budget",
+        "category": "This app will help you budget.",
+        "image": "budget.png",
+        "url": "https://stark-everglades-13129.herokuapp.com/"
       },
       {
         "title": "Netflix Clone",
