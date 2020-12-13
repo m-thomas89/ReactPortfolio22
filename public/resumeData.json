@@ -82,10 +82,10 @@
         "url": "https://m-thomas89.github.io/WeatherApp/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "BoozieNight",
+        "category": "An app that will help you pick a movie as well as pair your movie choice with an alcoholic beverage",
+        "image": "boosieNight.png",
+        "url": "https://idallas93.github.io/BootcampProjectOne/"
       },
       {
         "title": "Facebook Clone with React",
