@@ -3,7 +3,7 @@
     "name": "Michael Thomas",
     "occupation": "Website Developer",
     "image": "IMG_1273.jpg",
-    "bio": "I was born and raised in Queens, New York. I went to University of Michigan where i got my bachlor's degree in Business Administration and a minor in Biology. My goal was to run my own dental school so I went Barry University in Miami where I got my Master's in Biomedical Science. While I was in Miami I found a sales job and started my journey in selling websites for digital marketing agencies. When I moved back to New York I was in charge of running the sales department of a agency that worked with large brands. My goal is to learn how to code websites and tie that in with my selling abilities.",
+    "bio": "I was born and raised in Queens, New York. I went to University of Michigan where i got my bachelor's degree in Business Administration and a minor in Biology. My goal was to run my own dental school so I went Barry University in Miami where I got my Master's in Biomedical Science. While I was in Miami I found a sales job and started my journey in selling websites for digital marketing agencies. When I moved back to New York I was in charge of running the sales department of a agency that worked with large brands. My goal is to learn how to code websites and tie that in with my selling abilities.",
     "email": "m-thomas89@hotmail.com.com",
     "address": { 
     },
@@ -59,7 +59,7 @@
         "level": "100%"
       },
       {
-        "name": "Javascrpit",
+        "name": "Javascript",
         "level": "65%"
       },
       {
@@ -99,22 +99,22 @@
         "url": "https://stark-everglades-13129.herokuapp.com/"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Code Quiz",
+        "category": "If you are ever bored or want to test your coding knowledge.",
+        "image": "js.png",
+        "url": "https://m-thomas89.github.io/Code-Quiz/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "To improve is to change; to be perfect is to change often.",
+        "user": "Winston Churchill"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Everybody in this country should learn to program a computer, because it teaches you how to think.",
+        "user": "Steve Jobs"
       }
     ]
   }
